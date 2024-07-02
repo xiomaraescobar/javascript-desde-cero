@@ -17,7 +17,7 @@ console.log(presentacion);
 
 // concatenacion con join()
 const primeraParte = 'Me encanta';
-const segundaParte = 'la gente de ';
+const segundaParte = 'la  gente de ';
 const terceraParte = 'mexico';
 const pensamiento = [primeraParte, segundaParte,terceraParte];
 console.log(pensamiento.join(''));

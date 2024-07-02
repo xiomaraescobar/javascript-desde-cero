@@ -18,7 +18,7 @@ c = 'undefined';
 
 let frutas = ['manzana'];
 frutas.push('pera');// agrega otra fruta
-conssole.log(frutas);
+console.log(frutas);
 
 let panes = ['🥐'];
 let copiaDePanes = panes;
